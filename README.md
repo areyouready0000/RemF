@@ -1,5 +1,5 @@
 # RemF
-RemF Fluid Engine (In Progress)
+Rem Fluid Engine (In Progress)
 
 [Fluid Engine Development by Doyub Kim](https://fluidenginedevelopment.org/) implementation in Rust and SDL2.
 
